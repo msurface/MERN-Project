@@ -1,0 +1,5 @@
+// create a mongo URI
+{
+  "mongoURI": "mongodb+srv://msurface:I8babyjay@devconnector-wcvcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
